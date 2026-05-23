@@ -1,0 +1,10 @@
+# Summary
+- [00 — Introduction & Overview](00_Introduction_and_Overview.md) 
+- [01 — Domain 1: Identities & Governance](01_Domain1_Identities_and_Governance.md)
+- [02 — Domain 2: Storage](02_Domain2_Storage.md)
+- [03 — Domain 3: Compute](03_Domain3_Compute.md)
+- [04 — Domain 4: Networking](04_Domain4_Networking.md)
+- [05 — Domain 5: Monitor & Backup](05_Domain5_Monitor_and_Backup.md)
+- [06 — Hands-On Labs](06_Hands_On_Labs.md)
+- [07 — CLI & PowerShell Reference](07_CLI_Reference.md)
+- [08 — Exam Tips & Study Plan](08_Exam_Tips_and_Study_Plan.md)
