@@ -1,0 +1,6 @@
+[book]
+authors = ["Sc3p73r"]
+language = "mm"
+multilingual = false
+src = "src"
+title = "Azure Book"
